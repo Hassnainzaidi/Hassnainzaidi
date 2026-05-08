@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Hassnain  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Student+%7C+ML+Explorer;Kaggle+Contributor+%7C+Data+Visualizer;Anime+%26+Gaming+Enthusiast;Always+Learning+%26+Building...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student+%7C+ML+Explorer;Kaggle+Contributor+%7C+Notebook+Master;Dataset+Grandmaster+%7C+Data+Visualizer;Anime+%26+Gaming+Enthusiast;Always+Learning+%26+Building...)
 
 ---
 
@@ -9,6 +9,10 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Data Viz](https://img.shields.io/badge/Data%20Visualization-009688?style=for-the-badge&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Notebook Master](https://img.shields.io/badge/Kaggle-Notebook%20Master-blue?style=for-the-badge&logo=kaggle)
+![Dataset Grandmaster](https://img.shields.io/badge/Kaggle-Dataset%20Grandmaster-orange?style=for-the-badge&logo=kaggle)
 
 ---
 
@@ -24,14 +28,22 @@
 ## 📊 GitHub Stats
 ![Hassnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassnainzaidi&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassnainzaidi&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassnainzaidi&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassnainzaidi&theme=radical)  
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassnain-zaidi-4159a7282/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hassnainzaidi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hassnainzaidi)  
+📧 **Email:** hassnainzaidi2@gmail.com  
 
 ---
 
-⭐️ *“Every dataset is a new adventure.”*
+## ✨ Quotes I Live By
+> *“Every dataset is a new adventure.”*  
+> *“Code is poetry written for machines.”*  
+> *“Learning never stops — growth is infinite.”*  
+
+---
+
+![Snake animation](https://github.com/hassnainzaidi/hassnainzaidi/blob/output/github-contribution-grid-snake.svg)
