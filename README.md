@@ -1,15 +1,17 @@
 # 👋 Hey, I'm Hassnain  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student+%7C+ML+Explorer;Kaggle+Contributor+%7C+Notebook+Master;Dataset+Grandmaster+%7C+Data+Visualizer;Anime+%26+Gaming+Enthusiast;Always+Learning+%26+Building...)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student+%7C+ML+Explorer;Kaggle+Notebook+Master+%7C+Dataset+Grandmaster;Data+Visualizer+%7C+Deep+Learning+Enthusiast;Anime+%26+Gaming+Fan;Always+Learning+%26+Building..." alt="Typing Animation" />
+</p>
 
 ---
 
 ## 🚀 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![Data Viz](https://img.shields.io/badge/Data%20Visualization-009688?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-009688?style=for-the-badge&logo=plotly&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Notebook Master](https://img.shields.io/badge/Kaggle-Notebook%20Master-blue?style=for-the-badge&logo=kaggle)
 ![Dataset Grandmaster](https://img.shields.io/badge/Kaggle-Dataset%20Grandmaster-orange?style=for-the-badge&logo=kaggle)
@@ -26,9 +28,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Hassnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassnainzaidi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassnainzaidi&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassnainzaidi&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassnainzaidi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnainzaidi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassnainzaidi&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -43,7 +47,10 @@
 > *“Every dataset is a new adventure.”*  
 > *“Code is poetry written for machines.”*  
 > *“Learning never stops — growth is infinite.”*  
+> *“Data is the new oil, but insight is the fire.”*  
 
 ---
 
-![Snake animation](https://github.com/hassnainzaidi/hassnainzaidi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
