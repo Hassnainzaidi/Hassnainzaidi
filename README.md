@@ -28,11 +28,25 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassnainzaidi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnainzaidi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassnainzaidi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&count_private=true&v=1" alt="GitHub Streak" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hassnainzaidi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnainzaidi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  <!-- Streak (auto-updating daily) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassnainzaidi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&count_private=true&fire=DD2727&ring=00F7FF&currStreakLabel=00F7FF&sideNums=00F7FF&sideLabels=FFFFFF&background=0D1117" alt="GitHub Streak" />
 </p>
+
+---
+
+<!-- Dynamic Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassnainzaidi&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
 
 
 ---
